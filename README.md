@@ -12,7 +12,7 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://www.github.com/carliwiranata">
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat](https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif)" alt="Profile visitor" />
 </a>
 
@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://www.tiktok.com/carliwiranata">Carli Wiranata</a></b>
         </samp>
 </h3>
 
